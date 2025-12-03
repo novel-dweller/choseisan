@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.json
+chromedriver.exe
+.ipynb_checkpoints/
+.env
